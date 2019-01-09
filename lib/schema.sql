@@ -24,5 +24,6 @@ series_id INTEGER
 
 CREATE TABLE characters(
 name TEXT,
-species TEXT
+species TEXT,
+motto TEXT
 );
